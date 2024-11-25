@@ -35,21 +35,21 @@ img.svelte-1kq2ak8.svelte-1kq2ak8{max-width:100%}h3.svelte-1kq2ak8.svelte-1kq2ak
 .page-content.svelte-opfoa0{display:grid;padding:0 10% 0 10%;row-gap:10em}.widgets.svelte-opfoa0{display:grid;grid-template-columns:repeat(2, 1fr);height:305px;gap:1.875em}.card-grid.svelte-opfoa0{display:grid;row-gap:2em;grid-template-columns:repeat(3, 1fr)}@media(max-width: 1338px){.card-grid.svelte-opfoa0{grid-template-columns:repeat(2, 1fr);justify-items:center}}@media(max-width: 920px){.card-grid.svelte-opfoa0{grid-template-columns:repeat(1, 1fr);justify-items:center}}@media(max-width: 768px){.page-content.svelte-opfoa0{padding:0 5% 0 5%}.widgets.svelte-opfoa0{display:flex;height:auto;flex-direction:column;justify-content:space-between}}
 @font-face {
     font-family: 'Jost';
-    src: url('../fonts/Jost-Medium.ttf') format('truetype');
+    src: url('fe-challenge/fonts/Jost-Medium.ttf') format('truetype');
     font-weight: 500;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Jost';
-    src: url('../fonts/Jost-Light.ttf') format('truetype');
+    src: url('fe-challenge/fonts/Jost-Light.ttf') format('truetype');
     font-weight: 300;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Jost';
-    src: url('../fonts/Jost-Regular.ttf') format('truetype');
+    src: url('fe-challenge/fonts/Jost-Regular.ttf') format('truetype');
     font-weight: 400;
     font-style: normal;
 }
